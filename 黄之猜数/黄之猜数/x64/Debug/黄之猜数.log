@@ -1,0 +1,3 @@
+﻿  0.c
+C:\Users\lfb\Desktop\项目\黄之猜数\黄之猜数\0.c(10,12): warning C4244: “函数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  黄之猜数.vcxproj -> C:\Users\lfb\Desktop\项目\黄之猜数\x64\Debug\黄之猜数.exe
